@@ -34,4 +34,4 @@ Fruit Match is a simple memory game I created while getting back into coding.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fruit-match.git
+   git clone https://github.com/Julio-DelRosario/Fruit-Match.git
